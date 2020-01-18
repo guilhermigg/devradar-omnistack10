@@ -1,6 +1,6 @@
 const axios = require('axios');
 const Dev = require('../models/Dev');
-
+const StringToArray = require('../utils/StringToArray')
 module.exports = {
     async index(req, res){
         const devs = await Dev.find()
