@@ -4,7 +4,7 @@ const cors = require('cors');
 const http = require('http');
 
 // Conexão com o banco de dados MongoDB
-mongoose.connect('mongodb+srv://omnistack:omnistack123@cluster0-sdmfz.mongodb.net/week10?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
