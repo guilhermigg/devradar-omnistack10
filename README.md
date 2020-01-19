@@ -6,3 +6,5 @@
 - [x] Desenvolvimento Web
 - [x] App Mobile
 - [x] Funcionalidades Avançadas
+
+![](https://rocketseat.com.br/static/images/week/logo.svg)
