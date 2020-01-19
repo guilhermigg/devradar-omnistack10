@@ -13,7 +13,7 @@ module.exports = {
             techs: {
                 $in: techsArray
             },
-            locations: {
+            location: {
                 $near:{
                     $geometry:{
                         type: 'Point',
